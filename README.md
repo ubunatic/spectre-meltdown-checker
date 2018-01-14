@@ -43,3 +43,6 @@ Your system exposure also depends on your CPU. As of now, AMD and ARM processors
 The nature of the discovered vulnerabilities being quite new, the landscape of vulnerable processors can be expected to change over time, which is why this script makes the assumption that all CPUs are vulnerable, except if the manufacturer explicitly stated otherwise in a verifiable public announcement.
 
 This tool has been released in the hope that it'll be useful, but don't use it to jump to conclusions about your security.
+
+## Links
+https://www.cyberciti.biz/faq/check-linux-server-for-spectre-meltdown-vulnerability/
